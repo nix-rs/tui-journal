@@ -1,0 +1,36 @@
+Journal {
+	layout: vertical;
+	height: 100h;
+	overflow-y: auto;
+	max-height: 10w;
+}
+
+
+Write {
+	layout: vertical;
+	/*margin: 1 1;*/
+	border: solid red;
+	outline: hkey green;
+	/*overflow-y:*/ 	
+}
+
+
+#tag {
+	width: 100%;
+	height: 3;
+	margin-bottom: 1;
+	/*border: none;*/
+}
+
+#content {
+	height: 22;
+	border: none;
+}
+
+Toast.-information {
+	padding: 1;
+}
+
+ToastRack {
+	align: right top;
+}
