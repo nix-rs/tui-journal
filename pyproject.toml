@@ -1,0 +1,14 @@
+[project]
+name = ""
+version = ""
+authors = [
+	{name="", email=""},
+]
+description = ""
+readme = ""
+requires-python = ""
+classifiers = [
+]
+
+[project.urls]
+Homepage = ""
